@@ -1,0 +1,66 @@
+
+body {
+
+    background-color: #EAEAEA;
+    font-family: 'Roboto', sans-serif;
+    height: 1270px;
+    width: 100%;
+    overflow-x: hidden;
+    
+    justify-content: center;
+    text-align: center;
+}
+#completo {
+
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    width: 850px;
+    height: 1170px;
+    margin-top: 20px;
+    margin-left: 350px;
+    border-radius: 20px;
+}
+img {
+
+    width: 70%;
+    height: 25%;
+    object-fit: fill;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+h1 {
+     padding-top: 40px;
+     color: rgb(97, 63, 63);
+     font-weight: 700px;
+     font-size: 28px;
+}
+h2 {
+   padding-top: 2%;
+   padding-bottom: 2%;
+   color: #1B1B1B;
+   font-weight: 700px;
+   font-size: 20px;
+}
+
+li {
+    line-height: 30px;
+    text-align: left;
+    color: #39393A;
+    font-weight: 400px;
+    font-size: 16px;
+}
+
+p {
+    text-align: left;
+    padding-left: 25px;
+    color: #39393A;
+    font-weight: 400px;
+    font-size: 16px;
+}
+
+#lucas {
+    margin-top: 40px;
+    margin-left: 38%;
+    margin-bottom: 20px;
+}
